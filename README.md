@@ -1,1 +1,1 @@
-#Programa sobre Composición "Persona-Trabajo"
+Programa sobre Composición "Persona-Trabajo"
