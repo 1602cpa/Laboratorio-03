@@ -1,1 +1,1 @@
-# Laboratorio-03
+Programa sobre Composición "Persona-Trabajo"
